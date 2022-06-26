@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.11e5b65d.css",
-    "main.js": "/static/js/main.a424edf5.js",
+    "main.css": "/static/css/main.99eef580.css",
+    "main.js": "/static/js/main.c0602c01.js",
+    "static/media/laferre.png": "/static/media/laferre.cd1c966d36f7b12848e6.png",
     "static/media/me.png": "/static/media/me.b968f0e53ffccf22510e.png",
-    "static/media/5.jpg": "/static/media/5.aa5b6e16c5dfbc4200ce.jpg",
     "static/media/1.jpg": "/static/media/1.696947e1a977bba20ad9.jpg",
     "static/media/4.jpg": "/static/media/4.41918915cb244121d581.jpg",
     "static/media/2.jpg": "/static/media/2.8846cbc46bc69928364f.jpg",
     "static/media/3.jpg": "/static/media/3.81cb832f94255323d112.jpg",
     "static/media/mu.png": "/static/media/mu.54deac518f4eaa984c82.png",
     "index.html": "/index.html",
-    "main.11e5b65d.css.map": "/static/css/main.11e5b65d.css.map",
-    "main.a424edf5.js.map": "/static/js/main.a424edf5.js.map"
+    "main.99eef580.css.map": "/static/css/main.99eef580.css.map",
+    "main.c0602c01.js.map": "/static/js/main.c0602c01.js.map"
   },
   "entrypoints": [
-    "static/css/main.11e5b65d.css",
-    "static/js/main.a424edf5.js"
+    "static/css/main.99eef580.css",
+    "static/js/main.c0602c01.js"
   ]
 }
